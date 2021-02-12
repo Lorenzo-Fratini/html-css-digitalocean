@@ -74,4 +74,17 @@
     margin: 0 auto;
     padding: 0;
   }
+
+  .conf-box-cont {
+    width: 100%;
+  }
+
+  .conf-box {
+    width: 100%;
+    margin: 30px 0 0 0;
+  }
+
+  .conf-margin {
+    margin: 0;
+  }
 }
