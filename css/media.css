@@ -31,6 +31,10 @@
   .partner-logo-cont img {
     width: 115px;
   }
+
+  .slider-cont {
+    width: 80%;
+  }
 }
 
 @media all and (max-width: 991px){
@@ -62,6 +66,15 @@
   .partner-logo-cont img {
     width: 135px;
   }
+
+  .slider-cont {
+    width: 90%;
+  }
+
+  .slider-chevron-left,
+  .slider-chevron-right {
+    font-size: 1.5rem;
+  }
 }
 
 @media all and (max-width: 767px) {
@@ -86,5 +99,14 @@
 
   .conf-margin {
     margin: 0;
+  }
+
+  .slider-cont {
+    width: 100%;
+  }
+
+  .slider-chevron-left,
+  .slider-chevron-right {
+    display: none;
   }
 }
