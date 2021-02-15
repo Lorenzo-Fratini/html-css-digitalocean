@@ -38,10 +38,6 @@
 }
 
 @media all and (max-width: 991px) {
-  body {
-    font-size: 12px;
-  }
-
   .page-padding {
     padding-left: 5%;
     padding-right: 5%;
@@ -97,7 +93,7 @@
     margin-top: 50px;
     float: left;
   }
-
+  
   .footer-info {
     width: 100%;
   }
@@ -110,7 +106,7 @@
 
 @media all and (max-width: 767px) {
   body {
-    font-size: 10px;
+    font-size: 16px;
   }
 
   .partner-logo-cont {
